@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "description": "python project",
+        "priority": "high",
+        "due_date": "2025-04-13",
+        "completed": true,
+        "created_at": "2025-04-12 21:10:50"
+    },
+    {
+        "id": 2,
+        "description": "python code",
+        "priority": "medium",
+        "due_date": "2025-04-13",
+        "completed": false,
+        "created_at": "2025-04-12 21:11:34"
+    }
+]
